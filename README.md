@@ -51,5 +51,5 @@ To generate high-quality UGC advertisement scripts that can be used on Instagram
 This project demonstrates how AI can be used to generate engaging marketing content quickly and efficiently. The generated UGC advertisements are suitable for promoting beauty salon services across multiple social media platforms.
 
 ## Author
-Your Name
+Chandu 
 Future Interns – Prompt Engineering Internship
